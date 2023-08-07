@@ -11,7 +11,7 @@ let fetch;
 const FormData = require('form-data');
 const path = require('path');
 
-const API_TOKEN = "77f5ee368a7040b1b3f147da18496aef";
+const API_TOKEN = "YOUR API KEY";
 const API_BASE_URL = "https://api.assemblyai.com/v2";
 
 const app = express();
